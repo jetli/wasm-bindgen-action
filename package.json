@@ -1,6 +1,6 @@
 {
   "name": "wasm-bindgen-action",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "wasm-bindgen action to install wasm-bindgen by downloading the executable",
   "main": "lib/main.js",
