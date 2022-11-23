@@ -9,9 +9,9 @@ Install `wasm-bindgen` by downloading the executable (much faster than `cargo in
 ## Usage
 
 ```yaml
-- uses: jetli/wasm-bindgen-action@v0.1.0
+- uses: jetli/wasm-bindgen-action@v0.2.0
   with:
-    # Optional version of wasm-bindgen to install(eg. '0.2.68', 'latest')
+    # Optional version of wasm-bindgen to install(eg. '0.2.83', 'latest')
     version: 'latest'
 ```
 
